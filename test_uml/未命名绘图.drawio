@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-22T06:55:45.678Z" agent="5.0 (Windows)" etag="T8Ug7I6Zx0FvKsQcfahV" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-22T06:58:59.532Z" agent="5.0 (Windows)" etag="LYJdQaW4T2CDTV4ugXRt" version="16.4.3" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1344" dy="87" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2--BGh6QgJdyMB6YTJ-P-105" value="DLR &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="2--BGh6QgJdyMB6YTJ-P-105" value="DLR-技术总监" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="420" width="20" height="700" as="geometry" />
         </mxCell>
         <mxCell id="2--BGh6QgJdyMB6YTJ-P-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2--BGh6QgJdyMB6YTJ-P-105">
@@ -88,11 +88,23 @@
         <mxCell id="2--BGh6QgJdyMB6YTJ-P-156" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2--BGh6QgJdyMB6YTJ-P-106">
           <mxGeometry x="5" y="570" width="10" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="2--BGh6QgJdyMB6YTJ-P-107" value="保修模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=25;" vertex="1" parent="1">
+        <mxCell id="2--BGh6QgJdyMB6YTJ-P-107" value="销售模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=25;" vertex="1" parent="1">
           <mxGeometry x="80" y="425" width="80" height="695" as="geometry" />
         </mxCell>
         <mxCell id="2--BGh6QgJdyMB6YTJ-P-111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2--BGh6QgJdyMB6YTJ-P-107">
           <mxGeometry x="35" y="57.5" width="10" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2--BGh6QgJdyMB6YTJ-P-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2--BGh6QgJdyMB6YTJ-P-107">
+          <mxGeometry x="45" y="75" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2--BGh6QgJdyMB6YTJ-P-164" value="&lt;span style=&quot;background-color: transparent&quot;&gt;1 新车交付&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="2--BGh6QgJdyMB6YTJ-P-107" target="2--BGh6QgJdyMB6YTJ-P-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="57.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="87" y="57.5" />
+              <mxPoint x="87" y="75.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2--BGh6QgJdyMB6YTJ-P-119" value="4 PDS点检任务下发" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="2--BGh6QgJdyMB6YTJ-P-118" parent="1">
           <mxGeometry relative="1" as="geometry">
