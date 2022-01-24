@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T03:34:57.889Z" agent="5.0 (Windows)" etag="T7Zxt87XW6kqo9ZRrUmV" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T03:35:51.790Z" agent="5.0 (Windows)" etag="XkMg2Vtlq-VCykjxj5k6" version="16.4.5" type="github">
   <diagram id="MDZvWCBUwwasPvXKfkXe" name="第 1 页">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="s6d2SXthR9Q-LcOidWv6-108" value="市场处置活动流程-时序" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=25;" parent="1" vertex="1">
           <mxGeometry x="60" y="395" width="980" height="965" as="geometry" />
-        </mxCell>
-        <mxCell id="s6d2SXthR9Q-LcOidWv6-106" value="Opt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=19;" parent="1" vertex="1">
-          <mxGeometry x="270" y="591" width="630" height="355" as="geometry" />
         </mxCell>
         <mxCell id="s6d2SXthR9Q-LcOidWv6-2" value="技术模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=25;" parent="1" vertex="1">
           <mxGeometry x="471" y="425" width="80" height="930" as="geometry" />
@@ -247,6 +244,9 @@
         </mxCell>
         <mxCell id="s6d2SXthR9Q-LcOidWv6-107" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=73;height=17;" parent="1" vertex="1">
           <mxGeometry x="487" y="1055" width="540" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="s6d2SXthR9Q-LcOidWv6-106" value="Opt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=19;" parent="1" vertex="1">
+          <mxGeometry x="270" y="591" width="630" height="355" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
