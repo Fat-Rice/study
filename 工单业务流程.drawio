@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T06:14:51.858Z" agent="5.0 (Windows)" etag="LlDVIfv9NwQmPAGk_KDs" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T06:15:59.108Z" agent="5.0 (Windows)" etag="XnGCPnh7BbSwH46psPdd" version="16.4.7" type="github">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="903" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="t4B0tKhAmutT-h0ZbHST-9" value="保修模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
           <mxGeometry x="1894" y="40" width="110" height="2030" as="geometry" />
         </mxCell>
-        <mxCell id="t4B0tKhAmutT-h0ZbHST-12" value="1 随到接待" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="t4B0tKhAmutT-h0ZbHST-11" parent="1">
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-12" value="1 接待" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="t4B0tKhAmutT-h0ZbHST-11" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="110" as="sourcePoint" />
           </mxGeometry>
