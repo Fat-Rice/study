@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T04:46:32.879Z" agent="5.0 (Windows)" etag="EReSxQmOhEFV6X0xVxjc" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T04:46:58.035Z" agent="5.0 (Windows)" etag="WfqheuIqX4oRFeGfyCJD" version="16.4.7" type="github">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="903" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-141" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-6">
           <mxGeometry x="51" y="1800" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-145" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-6">
+          <mxGeometry x="50" y="1850" width="10" height="32" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-3" value="服务-工单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="110" height="2000" as="geometry" />
