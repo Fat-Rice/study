@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T03:15:34.059Z" agent="5.0 (Windows)" version="16.4.7" etag="cpo1NGk2URRI5DWNGGgi" type="github"><diagram id="upgLCSvMHxxOmGPBbjUG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T03:27:27.218Z" agent="5.0 (Windows)" etag="NfqPnQy54z9R-gcCa_am" version="16.4.7" type="github">
+  <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-1" value="服务前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-2" value="服务-工单业务聚合" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-3" value="服务-工单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-4" value="服务-施工单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-5" value="&lt;div&gt;服务-估算结算单&lt;/div&gt;&lt;div&gt;领域&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="930" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-6" value="&lt;div&gt;服务-mq事件总线&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-7" value="零部件模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-8" value="技术模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-9" value="保修模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-10" value="EIP模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="40" width="110" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
