@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T06:27:06.860Z" agent="5.0 (Windows)" etag="trOTJ4-1fk3L3MLYggg1" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T06:28:44.260Z" agent="5.0 (Windows)" etag="Uu2ZQP_6GowJIGk5IyUH" version="16.4.7" type="github">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="903" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="t4B0tKhAmutT-h0ZbHST-185" value="客户接待流程" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=20;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="1830" height="2110" as="geometry" />
-        </mxCell>
-        <mxCell id="t4B0tKhAmutT-h0ZbHST-156" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1454" width="1070" height="306" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-6" value="&lt;div&gt;服务-mq事件总线&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
           <mxGeometry x="1321" y="40" width="110" height="2040" as="geometry" />
@@ -442,7 +439,7 @@
           <mxGeometry x="1120" y="40" width="110" height="2040" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-130" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-26">
-          <mxGeometry x="50" y="1339" width="10" height="71" as="geometry" />
+          <mxGeometry x="50" y="1339" width="10" height="61" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-133" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-26">
           <mxGeometry x="50" y="1174" width="10" height="80" as="geometry" />
@@ -460,7 +457,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-136" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-26">
-          <mxGeometry x="60" y="1369" width="10" height="31" as="geometry" />
+          <mxGeometry x="60" y="1369" width="10" height="21" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-137" value="4.1.1 根据工单查询零件出库单信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;jumpSize=0;exitX=1;exitY=0.141;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="t4B0tKhAmutT-h0ZbHST-136" parent="t4B0tKhAmutT-h0ZbHST-26" source="t4B0tKhAmutT-h0ZbHST-130">
           <mxGeometry relative="1" as="geometry">
@@ -558,8 +555,8 @@
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-132" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;jumpSize=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="367.63043478260875" y="1449.4500000000003" as="targetPoint" />
-            <mxPoint x="1153" y="1449.4500000000003" as="sourcePoint" />
+            <mxPoint x="370" y="1439.4500000000003" as="targetPoint" />
+            <mxPoint x="1168" y="1439.4500000000003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-113" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;jumpSize=0;" edge="1" parent="1">
@@ -625,6 +622,9 @@
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-74" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="1791" y="852" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-156" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1454" width="1070" height="306" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
