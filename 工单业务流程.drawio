@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T04:50:01.272Z" agent="5.0 (Windows)" etag="BpKReeF19g0oGvr-QbHh" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T04:50:55.695Z" agent="5.0 (Windows)" etag="bqHo2F5cLBkgwmbPpAn3" version="16.4.7" type="github">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="903" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -306,6 +306,15 @@
         <mxCell id="t4B0tKhAmutT-h0ZbHST-142" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-7">
           <mxGeometry x="50" y="1800" width="10" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;dashPattern=1 1;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-7">
+          <mxGeometry x="50" y="1850" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-164" value="&lt;div&gt;事件通知&lt;/div&gt;&lt;div&gt;零件出库确认信息&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=open;startSize=8;rounded=0;jumpSize=0;endFill=0;" edge="1" parent="t4B0tKhAmutT-h0ZbHST-7" target="t4B0tKhAmutT-h0ZbHST-6">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="1850" as="sourcePoint" />
+            <mxPoint x="-10" y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-8" value="技术模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
           <mxGeometry x="1694" y="40" width="110" height="2000" as="geometry" />
         </mxCell>
@@ -432,9 +441,6 @@
               <mxPoint x="95" y="1369" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="t4B0tKhAmutT-h0ZbHST-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;dashPattern=1 1;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-26">
-          <mxGeometry x="50" y="1860" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-66" value="&lt;div&gt;3.1.2 事件通知&lt;/div&gt;&lt;div&gt;工单信息.等待估算确认&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=open;startSize=8;rounded=0;jumpSize=0;endFill=0;startFill=0;" edge="1" target="t4B0tKhAmutT-h0ZbHST-65" parent="1">
           <mxGeometry relative="1" as="geometry">
