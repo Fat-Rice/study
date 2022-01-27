@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T04:49:26.860Z" agent="5.0 (Windows)" etag="cLcc6xLv7NxFs0ZljFuA" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T04:50:01.272Z" agent="5.0 (Windows)" etag="BpKReeF19g0oGvr-QbHh" version="16.4.7" type="github">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="903" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-1" value="服务前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="1230" height="2000" as="geometry" />
+          <mxGeometry x="110" y="40" width="110" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-160" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;dashPattern=1 1;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-1">
           <mxGeometry x="160" y="1544" width="1070" height="8" as="geometry" />
@@ -432,6 +432,9 @@
               <mxPoint x="95" y="1369" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t4B0tKhAmutT-h0ZbHST-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;dashed=1;dashPattern=1 1;" vertex="1" parent="t4B0tKhAmutT-h0ZbHST-26">
+          <mxGeometry x="50" y="1860" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-66" value="&lt;div&gt;3.1.2 事件通知&lt;/div&gt;&lt;div&gt;工单信息.等待估算确认&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=open;startSize=8;rounded=0;jumpSize=0;endFill=0;startFill=0;" edge="1" target="t4B0tKhAmutT-h0ZbHST-65" parent="1">
           <mxGeometry relative="1" as="geometry">
