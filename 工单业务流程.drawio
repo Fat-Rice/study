@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T09:51:45.389Z" agent="5.0 (Windows)" etag="EXH5UWlUdSbkW5DVxt8T" version="16.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-27T09:52:30.206Z" agent="5.0 (Windows)" etag="1fqU0U4lZtjuLlvxvSN4" version="16.4.7" type="github" pages="2">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="1298" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1044,6 +1044,9 @@
         </mxCell>
         <mxCell id="xe3EDnGy3G7FdPQLQHQN-32" value="result=true" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bkjOhrRIg0mg2GIpO5Lj-1">
           <mxGeometry x="480" y="1100" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xe3EDnGy3G7FdPQLQHQN-33" value="顾客批准-v20220127" style="shape=umlFrame;whiteSpace=wrap;html=1;width=130;height=20;" vertex="1" parent="bkjOhrRIg0mg2GIpO5Lj-1">
+          <mxGeometry x="20" y="10" width="1590" height="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
