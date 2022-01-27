@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T04:50:55.695Z" agent="5.0 (Windows)" etag="bqHo2F5cLBkgwmbPpAn3" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T06:00:55.742Z" agent="5.0 (Windows)" etag="eH6YsuZ0GJOx_U1Q_zrG" version="16.4.7" type="github">
   <diagram id="upgLCSvMHxxOmGPBbjUG" name="第 1 页">
     <mxGraphModel dx="903" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t4B0tKhAmutT-h0ZbHST-156" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1454" width="1070" height="326" as="geometry" />
+          <mxGeometry x="270" y="1454" width="1070" height="306" as="geometry" />
         </mxCell>
         <mxCell id="t4B0tKhAmutT-h0ZbHST-10" value="EIP模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=30;" vertex="1" parent="1">
           <mxGeometry x="2094" y="40" width="110" height="2000" as="geometry" />
